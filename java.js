@@ -17,8 +17,8 @@ document.querySelector(".img2").setAttribute("src", imagemRandomizada2);
 
 if (numeroDado1 === numeroDado2){document.querySelector("h1").innerText = "Deu empate, que pena! 😔"
 
-} else if (numeroDado1 >= numeroDado2) {document.querySelector("h1").innerText = "Player 1 Ganhou! 😎"
+} else if (numeroDado1 > numeroDado2) {document.querySelector("h1").innerText = "Player 1 Ganhou! 😎"
 
-} else if (numeroDado1 <= numeroDado2) {document.querySelector("h1").innerText = "Player 2 Ganhou! 😎"}
+} else if (numeroDado1 < numeroDado2) {document.querySelector("h1").innerText = "Player 2 Ganhou! 😎"}
 
 } 
