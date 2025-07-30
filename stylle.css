@@ -1,0 +1,38 @@
+html{
+    background-color: #1F1C30;
+    color: #FFFFFF;
+}
+
+.container{
+  text-align: center;
+  margin: 2%;
+}
+
+.dado{
+display: inline-block;
+margin:  2%;
+}
+
+
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 6rem;
+    margin: 0;
+    text-shadow: 5px 0 #502439;
+}
+
+p{
+    font-family: 'Lobster', cursive;
+    font-size: 2rem;
+}
+
+img{
+    width: 80%;
+}
+
+button{
+    font-family: 'Lobster', cursive;
+    position: relative;
+    left: 46%;
+    margin-bottom: 2%;
+}

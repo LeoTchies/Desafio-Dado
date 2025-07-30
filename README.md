@@ -1,2 +1,2 @@
-# Desafio-Dado
-Um desafio voltado para criar um site de jogos de dados interativo com javascript.
+# Dice-Challenge
+Uso de javascritp para crianção de um jogo de dados
