@@ -1,4 +1,4 @@
-document.getElementById("sorte").onclick = rodarDados;
+document.getElementById("sorte").addEventListener("click", rodarDados);
 
 function rodarDados(){
 var numeroDado1 = Math.floor((Math.random()*6)+1);
